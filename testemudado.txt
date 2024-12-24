@@ -1,3 +1,3 @@
 Mudanças nos arquivos encrypter e decrypter:
-- ao invés de procurar o nome EXATO do arquivo encriptado, agora ele busca qualquer arquivo que tenha a extensão 'ransom'
-- igualmente para o 'decrypt' do arquivo, ele lê arquivos que tenham a extensão 'ransom'.
+- ao invés de procurar o nome EXATO do arquivo encriptado, agora ele solicita o nome do arquivo que desejamos criptografar;
+- já para o 'decrypt' do arquivo, ele lê arquivos que tenham a extensão 'ransom'.
